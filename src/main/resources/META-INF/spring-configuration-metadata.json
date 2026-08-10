@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "app.name",
+      "type": "java.lang.String",
+      "description": "Application name."
+    },
+    {
+      "name": "app.environment",
+      "type": "java.lang.String",
+      "description": "Application environment."
+    }
+  ]
+}
